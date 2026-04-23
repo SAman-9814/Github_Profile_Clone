@@ -342,6 +342,7 @@
     .profile-bottom-wrapper {
       flex-wrap: wrap;
       flex-direction: row;
+      align-items: center;
     }
   
     .profile-info {
