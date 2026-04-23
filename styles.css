@@ -206,6 +206,8 @@
     flex-direction: column;
     justify-content: space-between;
     gap: 16px 0;
+    align-items: center;
+
   }
   
   .profile-info {
@@ -342,7 +344,6 @@
     .profile-bottom-wrapper {
       flex-wrap: wrap;
       flex-direction: row;
-      align-items: center;
     }
   
     .profile-info {
